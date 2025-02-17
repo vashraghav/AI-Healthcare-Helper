@@ -204,17 +204,29 @@ CopiedEdit
 AI-Healthcare-Helper/
 
 │-- \_src/scss/         # SCSS files for styling
+
 │-- assets/             # Project assets (icons, branding)
+
 │-- blog/               # Health insights, self-care guides & wellness articles
+
 │-- css/                # Frontend stylesheets
+
 │-- docs/               # Documentation and user guides
+
 │-- js/                 # JavaScript logic and scripts
+
 │-- php/                # Backend API calls for medical databases
+
 │-- oldTemplate/        # Previous AI models and templates
+
 │-- .gitignore          # Git ignore file for untracked files
+
 │-- LICENSE             # License details
+
 │-- README.md           # Project README file
+
 │-- index.html          # Main entry point for frontend UI
+
 
 
 ## Community Contributions
